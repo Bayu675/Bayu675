@@ -65,5 +65,5 @@ Built robust RPA scripts to bypass manual data entry bottlenecks on legacy deskt
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayu675&show_icons=true&theme=radical" alt="Bayu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu675&layout=compact&theme=radical" alt="Bayu's Top Languages" />
 </p>
