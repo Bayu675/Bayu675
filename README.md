@@ -64,6 +64,4 @@ Built robust RPA scripts to bypass manual data entry bottlenecks on legacy deskt
 * **Key Architecture:** Created a custom data extraction module bypassing memory-based Volume ID (Vol-ID) licensing. Deployed smart cursor strategies for auto-auditing multi-tier discounts and taxes.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu675&layout=compact&theme=radical" alt="Bayu's Top Languages" />
-</p>
+
