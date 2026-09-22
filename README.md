@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bayu675.github.io"><strong>🌐 Portfolio Website</strong></a> ·
+  <a href="https://bayu675.github.io/ryu-portfolio/"><strong>🌐 Portfolio Website</strong></a> ·
   <a href="mailto:bayuoktovian21@gmail.com"><strong>✉️ Email Me</strong></a>
 </p>
 
